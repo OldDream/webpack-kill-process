@@ -3,9 +3,20 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:OldDream/webpack-kill-process-on-end.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords": [
+    "clipboard",
+    "copy",
+    "browser",
+    "typescript",
+    "ts"
+  ],
+  "author": "Old_dream",
   "license": "ISC"
 }
