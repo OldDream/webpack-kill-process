@@ -1,11 +1,11 @@
 {
-  "name": "webpack-kill-process-on-end",
+  "name": "webpack-kill-process",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:OldDream/webpack-kill-process-on-end.git"
+    "url": "git@github.com:OldDream/webpack-kill-process.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
