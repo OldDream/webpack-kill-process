@@ -1,11 +1,11 @@
 # webpack-kill-process-on-end
 
 
-If your webpack didn't kill the process in terminal, you may need this.
+If your webpack didn't kill it's process in terminal, you may need this.
 
 This plugin can kill webpack process in terminal.
 
-Just add it into the webpack plugin list ( usually in a config file ), It can take effect.
+Add it into the webpack plugin list ( usually in a config file ), then it can take effect.
 
 
 
